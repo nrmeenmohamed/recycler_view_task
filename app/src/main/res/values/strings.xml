@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView_task</string>
+    <string name="text_value">background_1</string>
+    <string name="recycler_view_text">Recycler view Task</string>
+</resources>
